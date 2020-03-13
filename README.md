@@ -1,6 +1,5 @@
 # ITMO人工智能课程
 
-~~让老毛子知道CN学生的偷鸡实力~~
 
 ##  Practical Work 1
 
